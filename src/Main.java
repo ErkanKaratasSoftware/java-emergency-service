@@ -8,7 +8,7 @@ public class Main {
 		
 		Queue<Hasta> acilServis = new PriorityQueue<Hasta>();
 		
-		acilServis.offer(new Hasta ("Murat","Yanık"));
+		acilServis.offer(new Hasta ("Cemal","Geçer"));
 		acilServis.offer(new Hasta ("Okan","Bas Agrısı"));
 		acilServis.offer(new Hasta ("Elif","Apandısıt"));
 		acilServis.offer(new Hasta ("Oguz","Yanık"));
